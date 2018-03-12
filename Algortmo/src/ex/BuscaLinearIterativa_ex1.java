@@ -1,5 +1,6 @@
 package ex;
 
+
 import javax.swing.JOptionPane;
 
 public class BuscaLinearIterativa_ex1 {
